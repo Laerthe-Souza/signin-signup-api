@@ -1,5 +1,5 @@
 <h1 align="center">
-  Sign Up Sign API
+  Sign up Sign in API
 <h1>
 
 ## Getting started
