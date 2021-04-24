@@ -5,7 +5,7 @@
 ## Getting started
 
 1. Clone this repository using the following command: `git clone https://github.com/Laerthe-Souza/signin-signup-api.git`.
-2. Run the `yarn` or `npm install` command to install all project dependencies.
+2. Run the command `yarn` or `npm install` to install all project dependencies.
 3. Run the command `yarn typeorm migration:run` or `npm run typeorm migration:run` to run all database migrations.
 4. Now, run the `yarn dev` or `npm run dev` command to start the development server at http://localhost:3333.
 
