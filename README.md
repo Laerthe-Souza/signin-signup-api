@@ -4,9 +4,9 @@
 
 ## Getting started
 
-1 - Clone this repository using the following command: `git clone git@github.com:Laerthe-Souza/signin-signup-api.git`.
-2 - Run the `yarn` or `npm install` command to install all project dependencies.
-3 - Now, run the command `yarn dev` to start the development server at http://localhost:3333.
+1. Clone this repository using the following command: `git clone git@github.com:Laerthe-Souza/signin-signup-api.git`.
+2. Run the `yarn` or `npm install` command to install all project dependencies.
+3. Now, run the command `yarn dev` to start the development server at http://localhost:3333.
 
 ## License
 
